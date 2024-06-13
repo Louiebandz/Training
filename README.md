@@ -1,6 +1,6 @@
-## Project to grow as a developer.
+# Project to grow as a developer.
 
-# Disciplines/Skills
+## Disciplines/Skills
 - C++
 - Lua
 - Python
